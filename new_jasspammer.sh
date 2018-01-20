@@ -1,0 +1,1 @@
+45 01 20 1 * echo 'Good evening professor David Wesley Craig, I am not sure about did you receive my spam yesterday at 11:59 pm, so I am trying send my spam again at 5:45 pm. Also, my id in GitHub is bioqazaq' | mail -s 'Spam from Zhassulan and GitHub ID' davidwcr@usc.edu
